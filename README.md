@@ -1,6 +1,6 @@
 # Projeto Gerenciamento do Armazenamento de Remédios
 
-## O programa tem como objetivo cadastrar, buscar, atualizar e excluir medicamentos de um banco de dados.
+## O programa tem como objetivo cadastrar, buscar, atualizar e excluir medicamentos de um banco de dados:card_file_box:
 
 ### Linguagem C
 ### Atividade proposta pelo Prof.Fábio Teixeira - Cadeira-Estrutura de dados em C - Estácio-Parangaba
