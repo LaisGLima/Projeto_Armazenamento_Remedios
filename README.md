@@ -1,4 +1,4 @@
-# Projeto_Armazenamento_Remedios
+# Projeto Armazenamento De Remedios
 
 ## O programa tem como objetivo cadastrar, buscar, atualizar e excluir medicamentos de um banco de dados.
 
