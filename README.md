@@ -1,4 +1,4 @@
-# Projeto Gerenciamento do Armazenamento de Remédios
+# Projeto Gerenciamento de Armazenamento de Remédios
 
 ## O programa tem como objetivo cadastrar, buscar, atualizar e excluir medicamentos de um banco de dados:card_file_box:
 
